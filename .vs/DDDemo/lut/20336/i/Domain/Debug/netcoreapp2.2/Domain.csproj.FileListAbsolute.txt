@@ -1,0 +1,7 @@
+G:\noah\testcode\DDDemo\.vs\DDDemo\lut\0\b\Domain\Debug\netcoreapp2.2\Domain.deps.json
+G:\noah\testcode\DDDemo\.vs\DDDemo\lut\0\b\Domain\Debug\netcoreapp2.2\Domain.dll
+G:\noah\testcode\DDDemo\.vs\DDDemo\lut\0\i\Domain\Debug\netcoreapp2.2\Domain.csproj.CoreCompileInputs.cache
+G:\noah\testcode\DDDemo\.vs\DDDemo\lut\0\i\Domain\Debug\netcoreapp2.2\Domain.AssemblyInfoInputs.cache
+G:\noah\testcode\DDDemo\.vs\DDDemo\lut\0\i\Domain\Debug\netcoreapp2.2\Domain.AssemblyInfo.cs
+G:\noah\testcode\DDDemo\.vs\DDDemo\lut\0\i\Domain\Debug\netcoreapp2.2\Domain.csproj.CopyComplete
+G:\noah\testcode\DDDemo\.vs\DDDemo\lut\0\i\Domain\Debug\netcoreapp2.2\Domain.dll

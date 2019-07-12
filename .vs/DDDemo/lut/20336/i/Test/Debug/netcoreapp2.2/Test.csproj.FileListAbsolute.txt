@@ -1,0 +1,13 @@
+G:\noah\testcode\DDDemo\.vs\DDDemo\lut\0\b\Test\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+G:\noah\testcode\DDDemo\.vs\DDDemo\lut\0\b\Test\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+G:\noah\testcode\DDDemo\.vs\DDDemo\lut\0\b\Test\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+G:\noah\testcode\DDDemo\.vs\DDDemo\lut\0\b\Test\Debug\netcoreapp2.2\Test.deps.json
+G:\noah\testcode\DDDemo\.vs\DDDemo\lut\0\b\Test\Debug\netcoreapp2.2\Test.runtimeconfig.json
+G:\noah\testcode\DDDemo\.vs\DDDemo\lut\0\b\Test\Debug\netcoreapp2.2\Test.runtimeconfig.dev.json
+G:\noah\testcode\DDDemo\.vs\DDDemo\lut\0\b\Test\Debug\netcoreapp2.2\Test.dll
+G:\noah\testcode\DDDemo\.vs\DDDemo\lut\0\i\Test\Debug\netcoreapp2.2\Test.csprojAssemblyReference.cache
+G:\noah\testcode\DDDemo\.vs\DDDemo\lut\0\i\Test\Debug\netcoreapp2.2\Test.csproj.CoreCompileInputs.cache
+G:\noah\testcode\DDDemo\.vs\DDDemo\lut\0\i\Test\Debug\netcoreapp2.2\Test.AssemblyInfoInputs.cache
+G:\noah\testcode\DDDemo\.vs\DDDemo\lut\0\i\Test\Debug\netcoreapp2.2\Test.AssemblyInfo.cs
+G:\noah\testcode\DDDemo\.vs\DDDemo\lut\0\i\Test\Debug\netcoreapp2.2\Test.csproj.CopyComplete
+G:\noah\testcode\DDDemo\.vs\DDDemo\lut\0\i\Test\Debug\netcoreapp2.2\Test.dll

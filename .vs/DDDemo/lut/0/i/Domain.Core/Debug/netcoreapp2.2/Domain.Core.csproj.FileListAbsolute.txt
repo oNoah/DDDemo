@@ -1,0 +1,8 @@
+G:\noah\testcode\DDDemo\.vs\DDDemo\lut\0\b\Domain.Core\Debug\netcoreapp2.2\Domain.Core.deps.json
+G:\noah\testcode\DDDemo\.vs\DDDemo\lut\0\b\Domain.Core\Debug\netcoreapp2.2\Domain.Core.dll
+G:\noah\testcode\DDDemo\.vs\DDDemo\lut\0\i\Domain.Core\Debug\netcoreapp2.2\Domain.Core.csprojAssemblyReference.cache
+G:\noah\testcode\DDDemo\.vs\DDDemo\lut\0\i\Domain.Core\Debug\netcoreapp2.2\Domain.Core.csproj.CoreCompileInputs.cache
+G:\noah\testcode\DDDemo\.vs\DDDemo\lut\0\i\Domain.Core\Debug\netcoreapp2.2\Domain.Core.AssemblyInfoInputs.cache
+G:\noah\testcode\DDDemo\.vs\DDDemo\lut\0\i\Domain.Core\Debug\netcoreapp2.2\Domain.Core.AssemblyInfo.cs
+G:\noah\testcode\DDDemo\.vs\DDDemo\lut\0\i\Domain.Core\Debug\netcoreapp2.2\Domain.Core.csproj.CopyComplete
+G:\noah\testcode\DDDemo\.vs\DDDemo\lut\0\i\Domain.Core\Debug\netcoreapp2.2\Domain.Core.dll

@@ -1,0 +1,16 @@
+G:\noah\testcode\DDDemo\Infrastructure\bin\Debug\netcoreapp2.2\Domain.dll
+G:\noah\testcode\DDDemo\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csprojAssemblyReference.cache
+G:\noah\testcode\DDDemo\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csproj.CoreCompileInputs.cache
+G:\noah\testcode\DDDemo\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.AssemblyInfoInputs.cache
+G:\noah\testcode\DDDemo\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.AssemblyInfo.cs
+G:\noah\testcode\DDDemo\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.deps.json
+G:\noah\testcode\DDDemo\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.dll
+G:\noah\testcode\DDDemo\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.pdb
+G:\noah\testcode\DDDemo\Infrastructure\bin\Debug\netcoreapp2.2\Domain.Core.dll
+G:\noah\testcode\DDDemo\Infrastructure\bin\Debug\netcoreapp2.2\Domain.pdb
+G:\noah\testcode\DDDemo\Infrastructure\bin\Debug\netcoreapp2.2\Domain.Core.pdb
+G:\noah\testcode\DDDemo\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csproj.CopyComplete
+G:\noah\testcode\DDDemo\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.dll
+G:\noah\testcode\DDDemo\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.pdb
+G:\noah\testcode\DDDemo\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.runtimeconfig.json
+G:\noah\testcode\DDDemo\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.runtimeconfig.dev.json
